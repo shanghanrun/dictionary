@@ -137,3 +137,10 @@ ul li:last-child{
 .wrapper ul{
     display: none
 }
+.wrapper .info-text{
+    font-size:18px;
+    color: #4d59fb;
+}
+.info-text span{
+    font-weight:500;
+}
